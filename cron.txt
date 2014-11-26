@@ -1,0 +1,2 @@
+*/5 * * * * /usr/local/jdk/bin/java -cp /home/jorgen/dnsupdate/bin/:/home/jorgen/dnsupdate/lib/mail-1.4.4.jar se.familjensmas.DnsUpdate /home/jorgen/dnsupdate/
+
